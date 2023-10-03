@@ -1,0 +1,10 @@
+# day2 challenge - swap two numbers without using 3rd variable
+
+x = 10
+y = 5
+print("value of x is {x} and value of y is {y}")
+x = x + y   # 10+5=15
+y = x - y   # 15-5=10
+x = x - y   # 15-10=5
+# now   y = 10  and x = 5
+print(f"Swapped values: x is now {x} and y is {y}")
