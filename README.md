@@ -1,1 +1,3 @@
 # 30-DAYS-CHALLENGES
+Chhabada Institute of Engineering is organising 30 days coding Challenges...
+This is a Golden opportunity to All BE students become a Best coder...!
