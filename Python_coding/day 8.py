@@ -1,3 +1,5 @@
+#Program to find the Maximum and minimum of two numbers without using any loop or condition.
+
 def find_max_and_min(a, b):
     max_num = max(a, b)
     min_num = min(a, b)
